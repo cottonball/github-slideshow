@@ -9,3 +9,4 @@
 
 :fish:
 :dog:
+:cat:
